@@ -1,0 +1,16 @@
+sr:
+  project_module_all_files: Сви документи
+  all_project_files: Сви документи пројекта
+
+  attached: Закачено на
+  to_document: документ
+  to_issue: налог
+  to_project_files: документи пројекта
+  to_news: новости
+  to_version: верзија
+  to_wiki_page: wики страница
+  of_the_project: од пројекта
+
+  date:
+    formats:
+      month_day: "%B %d"
