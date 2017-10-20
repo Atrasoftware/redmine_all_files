@@ -1,0 +1,16 @@
+sr-YU:
+  project_module_all_files: Svi dokumenti
+  all_project_files: Svi dokumenti projekta
+
+  attached: Zakačeno na
+  to_document: dokument
+  to_issue: nalog
+  to_project_files: dokumenti projekta
+  to_news: novosti
+  to_version: verzija
+  to_wiki_page: wiki stranica
+  of_the_project: od projekta
+
+  date:
+    formats:
+      month_day: "%B %d"
